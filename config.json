@@ -1,5 +1,5 @@
 {
-  "backendUrl": "http://localhost:18080/api",
+  "backendUrl": "http://localhost:18081/api",
   "version": "1.0.0",
   "updatedAt": "2026-03-03T00:00:00Z",
   "minClientVersion": "1.0.0",
