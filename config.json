@@ -1,5 +1,12 @@
 {
-  "backendUrl": "https://api.fluidy.fr",
+  "backendUrl": "http://localhost:18080/api",
   "version": "1.0.0",
-  "updatedAt": "2025-01-01T00:00:00Z"
+  "updatedAt": "2026-03-03T00:00:00Z",
+  "minClientVersion": "1.0.0",
+  "features": {
+    "whisper": true,
+    "sharing": true,
+    "externalStorage": false
+  },
+  "maxUploadMb": 500
 }
