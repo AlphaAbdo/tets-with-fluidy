@@ -1,6 +1,6 @@
 {
-  "backendUrl": "http://localhost:18080/api",
-  "backendUrl2": "https://fluidy-backend-latest.onrender.com/api",
+  "backendUrl2": "http://localhost:18080/api",
+  "backendUrl": "https://fluidy-backend-latest.onrender.com/api",
   "version": "1.0.0",
   "updatedAt": "2026-03-03T00:00:00Z",
   "minClientVersion": "1.0.0",
